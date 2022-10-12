@@ -1,3 +1,4 @@
 const mercado = 'mercado';
+const d = 'devedor'
 console
-.log(mercado)
+.log(mercado, d)
